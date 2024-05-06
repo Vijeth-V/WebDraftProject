@@ -1,0 +1,41 @@
+.global-search {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  .global-search input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .global-search button {
+    padding: 5px 10px;
+    margin-left: 10px;
+  }
+  
+
+
+/* New styles for the "Add Coupon" button and container */
+.add-coupon-button-container {
+    text-align: right;
+    margin-top: 10px;
+  }
+  
+  .add-coupon-button {
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: center;
+    align-items: baseline;
+    width: 150px;
+    left: 83%;
+  }
